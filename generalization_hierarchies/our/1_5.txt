@@ -1,0 +1,3 @@
+Tech-support,Craft-repair,Prof-specialty,Machine-op-inspct => Technical
+Other-service,Adm-clerical,Farming-fishing,Transport-moving,Priv-house-serv,Protective-serv,Armed-Forces => Other
+Sales,Exec-managerial,Handlers-cleaners => Nontechnical

@@ -1,0 +1,9 @@
+sex	2
+salary-class	2
+race	5
+workclass	7
+marital-status	7
+occupation	14
+education	16
+native-country	41
+age	72

@@ -1,0 +1,3 @@
+Bachelors,Some-college,Prof-school,Assoc-acdm,Assoc-voc,Masters,Doctorate => Higher-education
+11th,HS-grad,9th,7th-8th,12th,10th => Secondary-education
+1st-4th,5th-6th,Preschool => Primary-education

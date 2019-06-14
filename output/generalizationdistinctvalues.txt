@@ -1,0 +1,9 @@
+sex	1
+salary-class	1
+race	1
+marital-status	3
+workclass	4
+occupation	4
+native-country	6
+education	9
+age	29

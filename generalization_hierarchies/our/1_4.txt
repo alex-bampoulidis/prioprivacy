@@ -1,0 +1,2 @@
+Married-civ-spouse,Married-AF-spouse => spouse-present
+Divorced,Never-married,Separated,Widowed,Married-spouse-absent => spouse-not-present

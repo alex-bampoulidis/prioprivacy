@@ -1,0 +1,3 @@
+Private,Self-emp-not-inc,Self-emp-inc => Non-Government
+Federal-gov,Local-gov,State-gov => Government
+Without-pay => Unemployed
