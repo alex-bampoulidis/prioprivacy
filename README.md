@@ -7,4 +7,4 @@ The paper's figures are located in the paper_figures folder
 
 For any inquiries, contact the author:
 Alexandros Bampoulidis
-alexandros.bampoulidis@researchstudio.at
+alexandros.bampoulidis at researchstudio.at
