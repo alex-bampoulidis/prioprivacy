@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane id="AnchorPane" prefHeight="751.0" prefWidth="1099.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/2.2" fx:controller="prioprivacy.QIsPrioritiesController">
+  <children>
+    <VBox prefHeight="751.0" prefWidth="1099.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+      <children>
+        <VBox alignment="TOP_CENTER" prefHeight="184.0" prefWidth="1099.0">
+          <children>
+            <Label text="Quasi-Identifiers (QIs) and Priorities">
+              <font>
+                <Font name="System Bold" size="40.0" />
+              </font>
+            </Label>
+          </children>
+        </VBox>
+        <VBox alignment="CENTER" prefHeight="448.0" prefWidth="1099.0">
+          <children>
+            <TableView fx:id="attributesTable" editable="true" prefHeight="449.0" prefWidth="1099.0" />
+            <HBox alignment="CENTER" prefHeight="30.0" prefWidth="1099.0">
+              <children>
+                <Button mnemonicParsing="false" onAction="#goBack" prefWidth="61.0" text="Back" />
+                <Button mnemonicParsing="false" onAction="#goNext" prefWidth="61.0" text="Next" />
+              </children>
+            </HBox>
+          </children>
+        </VBox>
+        <VBox fx:id="loadingVBox" alignment="CENTER" prefHeight="65.0" prefWidth="1099.0" visible="false">
+          <children>
+            <Label text="Loading Data...">
+              <font>
+                <Font size="16.0" />
+              </font>
+            </Label>
+            <ProgressIndicator id="progressIndicator" progress="-1.0" />
+          </children>
+        </VBox>
+      </children>
+    </VBox>
+  </children>
+</AnchorPane>
