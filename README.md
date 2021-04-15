@@ -1,5 +1,5 @@
 # prioprivacy
-This is the repository hosting the source code of the algorithm and experiments of the demo paper "PrioPrivacy: A Local Recoding K-Anonymity Tool for Prioritised Quasi-Identifiers" to be presented at Web Intelligence 2019.
+This is the repository hosting the source code of the algorithm and experiments of the demo paper "PrioPrivacy: A Local Recoding K-Anonymity Tool for Prioritised Quasi-Identifiers" to presented at Web Intelligence 2019.
 
 The source code of the experiments and the algorithm are in the arx-master160519 project folder, experiments and prioprivacy packages, respectively.
 
